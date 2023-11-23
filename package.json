@@ -1,0 +1,58 @@
+{
+  "name": "ancrypto-sdk-test",
+  "version": "5.0.0",
+  "description": "",
+  "main": "dist/cjs/src/index.js",
+  "module": "dist/esm/src/index.js",
+  "umd:main": "dist/umd/index.js",
+  "types": "dist/types/src/index.d.js",
+  "scripts": {
+    "prepublishOnly": "npm run build",
+    "test": "npm run build:cjs && mocha ./dist/cjs/test/**/*.js --timeout -1",
+    "build:upgrade": "npm --no-git-tag-version version patch",
+    "build": "npm run build:cjs && npm run build:esm && npm run build:umd && npm run build:types",
+    "build:cjs": "rm -rf ./dist/cjs && tsc -p config/tsconfig.cjs.json",
+    "build:esm": "rm -rf ./dist/esm && tsc -p config/tsconfig.esm.json",
+    "build:umd": "rm -rf ./dist/umd && webpack --config config/webpack.config.js",
+    "build:types": "rm -rf ./dist/types && tsc -p config/tsconfig.types.json",
+    "start": "node ./dist/cjs/src/index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/ancrypto-test.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "crypto-browserify": "^3.12.0",
+    "crypto-js": "^4.1.1",
+    "ethers": "^6.7.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.5",
+    "@types/chai-as-promised": "^7.1.5",
+    "@types/crypto-js": "^4.1.1",
+    "@types/express": "^4.17.17",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^20.4.0",
+    "@types/qrcode": "^1.5.1",
+    "@types/sinon": "^10.0.15",
+    "chai": "^4.3.7",
+    "chai-as-promised": "^7.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mocha": "^10.2.0",
+    "ts-loader": "^9.4.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}

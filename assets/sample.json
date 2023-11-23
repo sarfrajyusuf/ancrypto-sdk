@@ -1,0 +1,31 @@
+{
+  "name": "Ancrypto#1",
+  "addresses": [
+    {
+      "eth": "0xfea1ad1281ce4e11e6c13b52cc1fd62072f0b23d",
+      "sign": "0x401f0dbeff410e357c4a648924b8a9bd16847d4bd12d43babf308e3d4bfd0a364ca53daf72bd382af248fc681498de9000b65e6a806f493d7098a4ce5c146f8b1b"
+    },
+    {
+      "bsc": "0xfea1ad1281ce4e11e6c13b52cc1fd62072f0b23d",
+      "sign": "0x401f0dbeff410e357c4a648924b8a9bd16847d4bd12d43babf308e3d4bfd0a364ca53daf72bd382af248fc681498de9000b65e6a806f493d7098a4ce5c146f8b1b"
+    },
+    {
+      "polygon": "0xfea1ad1281ce4e11e6c13b52cc1fd62072f0b23d",
+      "sign": "0x401f0dbeff410e357c4a648924b8a9bd16847d4bd12d43babf308e3d4bfd0a364ca53daf72bd382af248fc681498de9000b65e6a806f493d7098a4ce5c146f8b1b"
+    },
+    {
+      "nrk": "0xfea1ad1281ce4e11e6c13b52cc1fd62072f0b23d",
+      "sign": "0x401f0dbeff410e357c4a648924b8a9bd16847d4bd12d43babf308e3d4bfd0a364ca53daf72bd382af248fc681498de9000b65e6a806f493d7098a4ce5c146f8b1b"
+    },
+    {
+      "ftm": "0xfea1ad1281ce4e11e6c13b52cc1fd62072f0b23d",
+      "sign": "0x401f0dbeff410e357c4a648924b8a9bd16847d4bd12d43babf308e3d4bfd0a364ca53daf72bd382af248fc681498de9000b65e6a806f493d7098a4ce5c146f8b1b"
+    },
+    {
+      "sign": "0xb4aa998445df4f0208ae887e6ad52f2d242a3ec2c0c89f3a07226d2486c5efd365e2d4828ee565443bb0971aa0604e8a23d26eb3e9d639887b608408013356ce1c",
+      "tron": "TVKRfaFdvhBFjRB3wXNJPmgyZPKCARsk7f"
+    }
+  ]
+}
+
+

@@ -1,0 +1,55 @@
+{
+  "username": "sarfraj8",
+  "address": "0x68673c6e0FF955731334999F63B0083689318c31",
+  "signature": "0x7ec2cfac158f1af4926da0c6ae8ff4aa8f78f3551307a6b863af06c06cc1fb584262f42cac224e3f92202c24c6350c114824d1ab7cbe6ac2505d88eff5ef04361c",
+
+  "data": [
+    {
+      "eth": "0x05305eb46107bf9b05f01fc3728b23e6f5e3263e",
+      "sign": "0xc8d5ed0831cdad673221a2a31af63ecd3d3a4f0ad2e30d7f7a3d7def427ed37e5d1a8ae06c6b95feed59c41d2e5dd9db5f7aed8bb8856ad04d68c974967364221b"
+    },
+    {
+      "bsc": "0x05305eb46107bf9b05f01fc3728b23e6f5e3263e",
+      "sign": "0xc8d5ed0831cdad673221a2a31af63ecd3d3a4f0ad2e30d7f7a3d7def427ed37e5d1a8ae06c6b95feed59c41d2e5dd9db5f7aed8bb8856ad04d68c974967364221b"
+    },
+    {
+      "polygon": "0x05305eb46107bf9b05f01fc3728b23e6f5e3263e",
+      "sign": "0xc8d5ed0831cdad673221a2a31af63ecd3d3a4f0ad2e30d7f7a3d7def427ed37e5d1a8ae06c6b95feed59c41d2e5dd9db5f7aed8bb8856ad04d68c974967364221b"
+    },
+    {
+      "nrk": "0x05305eb46107bf9b05f01fc3728b23e6f5e3263e",
+      "sign": "0xc8d5ed0831cdad673221a2a31af63ecd3d3a4f0ad2e30d7f7a3d7def427ed37e5d1a8ae06c6b95feed59c41d2e5dd9db5f7aed8bb8856ad04d68c974967364221b"
+    },
+    {
+      "ftm": "0x05305eb46107bf9b05f01fc3728b23e6f5e3263e",
+      "sign": "0xc8d5ed0831cdad673221a2a31af63ecd3d3a4f0ad2e30d7f7a3d7def427ed37e5d1a8ae06c6b95feed59c41d2e5dd9db5f7aed8bb8856ad04d68c974967364221b"
+    },
+    {
+      "sign": "0x454e637410f0db1b34687faecb2891e8210760b990d9fc73601ab5bb03e308cd7510ed8eea22cb3ac8bd30c68ec457a6224a870d8a1edb94d93b0e3f288748fb1b",
+      "tron": "TKTZwbPKCDpnK2ecgKpJeqig8qCn1Xg72N"
+    },
+    {
+      "bch": "qpslgweaa04yxcld2gh48fznp3cvmeggsct3xh30wt",
+      "bch_legacy": "19vw871iqrL2rEcht93bgTgahyHqjXfbvB",
+      "sign": "H4qkS7gUkK/RgGryWt6iI/gwKEheYsqBMXZCLtZ/rX0JLMIBQnjTRqOsOCO21tbH0NRqHb+SMUGn3F9maJTpGqU="
+    },
+    {
+      "doge": "DKnJkU4e7KzoTpY22YGnWCTQmcX77yvukp",
+      "sign": "HwwEUI+BH7daA8uionISZpHNO/cqBKYwLjnooxYpEWq0D5OGGWXzMek2/sQqgfcJxy9o2eYTsT3H/3qhK87bOuk="
+    },
+    {
+      "ltc": "LR2BLXCtA8fjt1wtRrcUxk7gkjZ1SE6222",
+      "sign": "IGrPF4dMWuOteh6KKswQPmwVWyVxYr4efXw7Qy8srCSlPwjUMRUkCn2q6CsLI+6InWZkixXRG2onfUYmcsv/guw="
+    },
+    {
+      "btc": "bc1qhenqd8ayvvjcwdkv0v3aur0frkgrlc6t5y9nqd",
+      "btc_Legacy": "1JMjcL8FrTnrAK3mVQD2jVFzPrmM7tUKhN",
+      "sign": "H7PiW3BcPkd10yBMjMdqqa20JPTB1PMUpOP1SfX4GeVTCjm7dy9lp3QkyhzNPYJs/MCXApKLYfe8xW/bzFLMM88="
+    },
+    {
+      "publicKey": "edpkvQXs5U6LpReXvTMLrxfceJP6wsjCtYoummQySazsY4RZEX46Pj",
+      "sign": "sigXixFncw7PevhrbX6jhHB19MdRDmRkbK3kbVAtbkMNw3UdBNwGwNFtwFu73c6E5zDeXiunYHpvJmWGTg8g5WiWWD9sgzoA",
+      "xtz": "tz1edS5BW4PZesHsZKPF5XU8oVMTbsAuucZs"
+    }
+  ]
+}
